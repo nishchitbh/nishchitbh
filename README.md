@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mr0bn0xi0us
 - 👀 I’m interested in python
-- 🌱 I’m currently learning pygame
+- 🌱 I’m currently learning idk
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me nbhellossss@gmail.com
 

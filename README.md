@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, AI, ML, Deep Learning, etc.
 - 🌱 I’m currently learning MLOPS
 - 💞️ I’m looking to collaborate on ARTIFICIAL INTELLIGENCE
-- 📫 How to reach me: you can't
+- 📫 How to reach me: @nishchit.b
 
 <!---
 mr0bn0xi0us/mr0bn0xi0us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

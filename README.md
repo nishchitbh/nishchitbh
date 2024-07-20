@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mr0bn0xi0us&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishchitbh&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
 
@@ -34,21 +34,21 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 ### 📊 Github Stats
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mr0bn0xi0us&theme=tokyonight&card_width=800" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nishchitbh&theme=tokyonight&card_width=800" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mr0bn0xi0us&show_icons=true&theme=tokyonight">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr0bn0xi0us&size_weight=0.0005&count_weight=0.3&layout=compact&theme=tokyonight">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=nishchitbh&show_icons=true&theme=tokyonight">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchitbh&size_weight=0.0005&count_weight=0.3&layout=compact&theme=tokyonight">
 </p>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr0bn0xi0us&style=for-the-badge&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=nishchitbh&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
 
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mr0bn0xi0us&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nishchitbh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </p>
 
 

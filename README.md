@@ -12,7 +12,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchit-bhandari-3bbb6b195)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr0bn0xious) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishchit.b)
 
 ---
-<p style="text-align: center;">## Languages and Tools </p>
+## Languages and Tools
 
 <div>
 
@@ -33,7 +33,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 ---
 
-<p style="text-align: center;">### 📊 Github Stats</p>
+### 📊 Github Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nishchitbh&theme=tokyonight&card_width=800" alt="GitHub Streak" /></a>

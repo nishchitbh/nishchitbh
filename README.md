@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishchitbh&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishchitbh&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
 
